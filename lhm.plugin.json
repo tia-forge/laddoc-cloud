@@ -1,0 +1,36 @@
+{
+  "identifier": "laddoc-cloud",
+  "name": "LadDoc Cloud",
+  "version": "0.1.0",
+  "description": "Generate TIA Portal importable SimaticML (V19) from LadDoc IR, with strict validation, over MCP.",
+  "author": "汇智网 (hubwiz)",
+  "authorUrl": "https://github.com/tia-forge",
+  "homepage": "https://github.com/tia-forge/laddoc-cloud",
+  "cloudEndpoint": "https://tia.hubwiz.com/lad/mcp",
+  "category": "developer",
+  "tags": [
+    "mcp",
+    "plc",
+    "siemens",
+    "tia-portal",
+    "ladder",
+    "simaticml",
+    "code-generation",
+    "industrial-automation"
+  ],
+  "localizations": [
+    {
+      "locale": "zh-CN",
+      "name": "LadDoc Cloud",
+      "description": "LadDoc → SimaticML 云服务：严格校验梯形图文档，确定性生成可被 TIA Portal V19 直接导入的程序块。",
+      "tags": [
+        "博途",
+        "PLC",
+        "梯形图",
+        "程序块",
+        "代码生成",
+        "工业自动化"
+      ]
+    }
+  ]
+}
